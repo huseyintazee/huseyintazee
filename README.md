@@ -29,8 +29,3 @@
 <div align="center">
 	<img src="https://github.com/huseyinfreshyy/huseyinfreshyy/blob/main/assets.svg" />
 </div>
-
-<div align="center">
-    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=huseyinfreshyy&theme=github"/>
-</div>
-
