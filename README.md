@@ -30,5 +30,5 @@
 	<img src="https://github.com/huseyinfreshyy/huseyinfreshyy/blob/main/assets.svg" />
 </div>
 <div align="center">
-https://spotify-github-profile.vercel.app/api/view?uid=sfyz7tk8pfnralwx81x57r8v6&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=sfyz7tk8pfnralwx81x57r8v6&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
 </div>
