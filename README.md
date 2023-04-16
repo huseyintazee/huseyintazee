@@ -29,6 +29,6 @@
     <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=huseyinfreshyy"/>
 </div>
 <div align="center">
-	<img src="https://github.com/huseyinfreshyy/huseyinfreshyy/blob/main/assets.svg" />
+	<img src="https://github.com/huseyinfreshyy/huseyinfreshyy/blob/main/github-user-contribution.svg" />
 </div>
 
