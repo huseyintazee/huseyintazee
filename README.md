@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/freshyyy78" target="blank"><img src="https://img.shields.io/twitter/follow/freshyyy78?logo=twitter&style=for-the-badge" alt="freshyyy78" /></a> </p>
 
-- 🔭 I’m currently working on [CoreProductivity](https://www.linkedin.com/company/core-productivity/)
+- 🔭 I’m currently working on [Oska Yazılım](https://www.linkedin.com/company/core-productivity/](https://www.linkedin.com/company/oskayazilim/))
 
 - 💬 Ask me about **Vue,C# and JS**
 
